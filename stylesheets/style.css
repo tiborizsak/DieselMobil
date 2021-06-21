@@ -2292,7 +2292,7 @@ a.download:hover {
     background-position: 50% 50%;
 }
 
-.parallax1 { background-image: url(../images/parallax/1.jpg); }
+.parallax1 { background-image: url(../images/parallax/1.jpeg); }
 
 .parallax2 { background-image: url(../images/parallax/2.jpg); }
 
@@ -2840,4 +2840,25 @@ a.download:hover {
     transform:scale(0.7);
     opacity:0.1
   }
+}
+
+/*tee*/
+hr.customhr{
+    border-top: 1px solid #25498e;
+}
+
+.gepjh3{
+    text-align: center;
+}
+
+.gepjcont{
+    padding-bottom: 40px;
+}
+
+.gepjbut{
+    background-color: #2d5aae;
+}
+
+.gepjbutcollapse{
+    padding-top: 20px;
 }
