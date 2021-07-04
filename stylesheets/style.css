@@ -2862,3 +2862,7 @@ hr.customhr{
 .gepjbutcollapse{
     padding-top: 20px;
 }
+
+ul{
+    list-style-type: circle;
+}
