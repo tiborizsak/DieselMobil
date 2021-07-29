@@ -2866,3 +2866,14 @@ hr.customhr{
 ul.vill{
     list-style-type: circle;
 }
+
+.flat-row-kapcsolat {
+    clear: both;
+    display: block;
+    position: relative;
+    padding-bottom: 50px;
+}
+
+.kapcsolat-title {
+    font-weight: bold;
+}
